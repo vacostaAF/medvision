@@ -1,0 +1,43 @@
+# Entorno Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Modelos de PaddleOCR descargados en local
+.paddlex/
+
+# Vídeos de entrada -- nunca deben subirse al repositorio (pesan
+# demasiado y son datos, no código)
+*.MOV
+*.mov
+*.mp4
+
+# Salidas generadas por el pipeline (build-dataset / rebuild-pairs) --
+# son datos derivados, se regeneran a partir de los vídeos, no código
+output_vertical/
+output_horizontal/
+output_*/
+*.sqlite
+*.sqlite3
+_merged_config.yaml
+
+# Salidas de la app de revisión / exportación del dataset
+dataset_final.json
+dataset_rejected.json
+dataset_package/
+dataset_package.zip
+reviews_backup.json
+
+# Salidas del script de bolsitas individuales (vídeos de validación)
+validar/
+validar_*/

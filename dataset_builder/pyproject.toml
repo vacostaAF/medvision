@@ -1,0 +1,35 @@
+[build-system]
+requires=["setuptools>=68","wheel"]
+build-backend="setuptools.build_meta"
+
+[project]
+name="medvision-ai"
+version="1.4.0"
+description="Dataset Builder trazable para reconocimiento asistido de medicamentos"
+requires-python=">=3.10"
+dependencies=[
+    "opencv-python>=4.8",
+    "PyYAML>=6",
+    "tqdm>=4.66",
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "Pillow>=10.0",
+    "streamlit>=1.35",
+    # paddleocr requiere instalar antes el motor de inferencia (paddlepaddle),
+    # que se distribuye desde un indice propio y no desde PyPI por defecto.
+    # Ver README.md > Instalacion para el comando exacto (CPU/GPU).
+    "paddleocr[all]>=3.2,<4",
+]
+
+[project.optional-dependencies]
+dev=["pytest>=8.0", "pytest-cov>=5.0"]
+
+[project.scripts]
+medvision-ai="medvision.cli:main"
+
+[tool.setuptools.packages.find]
+where=["src"]
+
+[tool.pytest.ini_options]
+testpaths=["tests"]
+addopts="-ra"

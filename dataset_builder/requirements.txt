@@ -1,0 +1,16 @@
+opencv-python>=4.8
+PyYAML>=6
+tqdm>=4.66
+numpy>=1.24
+pandas>=2.0
+Pillow>=10.0
+streamlit>=1.35
+
+# PaddleOCR necesita el motor de inferencia instalado por separado.
+# CPU (Linux/Windows):
+#   pip install paddlepaddle==3.2.0 -i https://www.paddlepaddle.org.cn/packages/stable/cpu/
+# GPU (CUDA 11.8, Linux):
+#   pip install paddlepaddle-gpu==3.2.0 -i https://www.paddlepaddle.org.cn/packages/stable/cu118/
+paddleocr[all]>=3.2,<4
+
+pytest>=8.0

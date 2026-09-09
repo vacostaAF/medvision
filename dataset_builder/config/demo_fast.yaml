@@ -1,0 +1,55 @@
+database: medvision.sqlite
+video_sides:
+  IMG_3660: pill_side
+  IMG_3663: pill_side
+  IMG_3661: label_side
+  IMG_3664: label_side
+sampling:
+  seconds_between_frames: 4.0
+  max_frames_per_video: 1
+bag_detection:
+  # 205 fallaba al 100% contra la camara nueva (MVI_2713/2714, mas oscura que
+  # el iPhone de la demo 1.0-1.3). Con estos 2 videos, 80-100 detecta bien.
+  # PENDIENTE: validar/recalibrar contra una muestra mas amplia de los 108
+  # videos reales antes de confiar en este valor como definitivo.
+  threshold_value: 100
+  min_area_ratio: 0.08
+bag_splitting:
+  min_segment_height: 180
+  # Con la camara nueva (mas cerca que el iPhone de la demo), cada frame suele
+  # mostrar como mucho UNA bolsita SPD, no varias -> no hay costura real que
+  # buscar dentro del frame. Con max_segments>1, el fallback de reparto
+  # equitativo cortaba una bolsita entera en franjas arbitrarias (visto con
+  # datos reales, ver docs/cuaderno_ingenieria_1.7.md). max_segments=1
+  # desactiva el corte: cada franja detectada se trata como una sola bolsa.
+  max_segments: 1
+  margin: 8
+ocr:
+  enabled: true
+  # Codigo de idioma de PaddleOCR (PP-OCRv6 usa un modelo latino unificado que ya
+  # cubre es/en conjuntamente; no existe equivalente al "spa+eng" de Tesseract).
+  lang: es
+  engine: paddle  # paddle | transformers (backend de inferencia de PaddleOCR 3.x)
+  min_word_score: 0.5  # descarta palabras individuales con score de reconocimiento bajo
+  auto_accept_confidence: 80
+selection:
+  limit_per_video_side: 8
+tracking:
+  appearance_weight: 0.72
+  position_weight: 0.20
+  order_weight: 0.08
+  min_match_score: 0.66
+  max_position_delta: 0.55
+  max_gap_seconds: 10.0
+  descriptor_momentum: 0.70
+video_pairs:
+  - pair_key: strip_3660_3661
+    pill_video: IMG_3660
+    label_video: IMG_3661
+    direction: direct
+  - pair_key: strip_3663_3664
+    pill_video: IMG_3663
+    label_video: IMG_3664
+    direction: direct
+pairing:
+  auto_accept_ocr_confidence: 70
