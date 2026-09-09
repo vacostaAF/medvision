@@ -1,0 +1,932 @@
+{
+  "fotos_a_anotar": [
+    "bags/pill_side/MVI_2732/f000060_bag00.jpg",
+    "bags/pill_side/MVI_2732/f000100_bag00.jpg",
+    "bags/pill_side/MVI_2732/f000180_bag00.jpg",
+    "bags/pill_side/MVI_2732/f000250_bag00.jpg",
+    "bags/pill_side/MVI_2732/f000270_bag00.jpg",
+    "bags/pill_side/MVI_2734/f000020_bag00.jpg",
+    "bags/pill_side/MVI_2734/f000070_bag00.jpg",
+    "bags/pill_side/MVI_2734/f000140_bag00.jpg",
+    "bags/pill_side/MVI_2734/f000180_bag00.jpg",
+    "bags/pill_side/MVI_2734/f000210_bag00.jpg",
+    "bags/pill_side/MVI_2734/f000240_bag00.jpg",
+    "bags/pill_side/MVI_2734/f000260_bag00.jpg",
+    "bags/pill_side/MVI_2734/f000270_bag00.jpg",
+    "bags/pill_side/MVI_2736/f000010_bag00.jpg",
+    "bags/pill_side/MVI_2736/f000100_bag00.jpg",
+    "bags/pill_side/MVI_2736/f000120_bag00.jpg",
+    "bags/pill_side/MVI_2736/f000140_bag00.jpg",
+    "bags/pill_side/MVI_2736/f000150_bag00.jpg",
+    "bags/pill_side/MVI_2736/f000200_bag00.jpg",
+    "bags/pill_side/MVI_2736/f000210_bag00.jpg",
+    "bags/pill_side/MVI_2736/f000220_bag00.jpg",
+    "bags/pill_side/MVI_2736/f000240_bag00.jpg",
+    "bags/pill_side/MVI_2736/f000250_bag00.jpg",
+    "bags/pill_side/MVI_2736/f000280_bag00.jpg",
+    "bags/pill_side/MVI_2738/f000070_bag00.jpg",
+    "bags/pill_side/MVI_2738/f000150_bag00.jpg",
+    "bags/pill_side/MVI_2738/f000160_bag00.jpg",
+    "bags/pill_side/MVI_2738/f000180_bag00.jpg",
+    "bags/pill_side/MVI_2738/f000200_bag00.jpg",
+    "bags/pill_side/MVI_2738/f000210_bag00.jpg",
+    "bags/pill_side/MVI_2738/f000260_bag00.jpg",
+    "bags/pill_side/MVI_2741/f000140_bag00.jpg",
+    "bags/pill_side/MVI_2741/f000170_bag00.jpg",
+    "bags/pill_side/MVI_2741/f000290_bag00.jpg",
+    "bags/pill_side/MVI_2743/f000110_bag00.jpg",
+    "bags/pill_side/MVI_2743/f000240_bag00.jpg",
+    "bags/pill_side/MVI_2745/f000100_bag00.jpg",
+    "bags/pill_side/MVI_2745/f000180_bag00.jpg",
+    "bags/pill_side/MVI_2745/f000230_bag00.jpg",
+    "bags/pill_side/MVI_2747/f000060_bag00.jpg",
+    "bags/pill_side/MVI_2747/f000120_bag00.jpg",
+    "bags/pill_side/MVI_2747/f000260_bag00.jpg",
+    "bags/pill_side/MVI_2749/f000120_bag00.jpg",
+    "bags/pill_side/MVI_2749/f000140_bag00.jpg",
+    "bags/pill_side/MVI_2749/f000260_bag00.jpg",
+    "bags/pill_side/MVI_2751/f000130_bag00.jpg",
+    "bags/pill_side/MVI_2751/f000190_bag00.jpg",
+    "bags/pill_side/MVI_2751/f000230_bag00.jpg",
+    "bags/pill_side/MVI_2751/f000280_bag00.jpg",
+    "bags/pill_side/MVI_2753/f000120_bag00.jpg",
+    "bags/pill_side/MVI_2753/f000160_bag00.jpg",
+    "bags/pill_side/MVI_2753/f000250_bag00.jpg",
+    "bags/pill_side/MVI_2753/f000260_bag00.jpg",
+    "bags/pill_side/MVI_2753/f000270_bag00.jpg",
+    "bags/pill_side/MVI_2753/f000280_bag00.jpg",
+    "bags/pill_side/MVI_2753/f000290_bag00.jpg",
+    "bags/pill_side/MVI_2757/f000030_bag00.jpg",
+    "bags/pill_side/MVI_2757/f000130_bag00.jpg",
+    "bags/pill_side/MVI_2757/f000230_bag00.jpg",
+    "bags/pill_side/MVI_2762/f000060_bag00.jpg",
+    "bags/pill_side/MVI_2762/f000070_bag00.jpg",
+    "bags/pill_side/MVI_2762/f000080_bag00.jpg",
+    "bags/pill_side/MVI_2762/f000090_bag00.jpg",
+    "bags/pill_side/MVI_2762/f000160_bag00.jpg",
+    "bags/pill_side/MVI_2762/f000170_bag00.jpg",
+    "bags/pill_side/MVI_2762/f000200_bag00.jpg",
+    "bags/pill_side/MVI_2762/f000240_bag00.jpg",
+    "bags/pill_side/MVI_2764/f000150_bag00.jpg",
+    "bags/pill_side/MVI_2764/f000200_bag00.jpg",
+    "bags/pill_side/MVI_2764/f000210_bag00.jpg",
+    "bags/pill_side/MVI_2764/f000250_bag00.jpg",
+    "bags/pill_side/MVI_2767/f000040_bag00.jpg",
+    "bags/pill_side/MVI_2767/f000150_bag00.jpg",
+    "bags/pill_side/MVI_2767/f000190_bag00.jpg",
+    "bags/pill_side/MVI_2767/f000260_bag00.jpg",
+    "bags/pill_side/MVI_2769/f000120_bag00.jpg",
+    "bags/pill_side/MVI_2769/f000260_bag00.jpg",
+    "bags/pill_side/MVI_2769/f000270_bag00.jpg",
+    "bags/pill_side/MVI_2771/f000000_bag00.jpg",
+    "bags/pill_side/MVI_2771/f000070_bag00.jpg",
+    "bags/pill_side/MVI_2771/f000130_bag00.jpg",
+    "bags/pill_side/MVI_2773/f000160_bag00.jpg",
+    "bags/pill_side/MVI_2773/f000250_bag00.jpg",
+    "bags/pill_side/MVI_2773/f000260_bag00.jpg",
+    "bags/pill_side/MVI_2775/f000110_bag00.jpg",
+    "bags/pill_side/MVI_2775/f000290_bag00.jpg",
+    "bags/pill_side/MVI_2779/f000060_bag00.jpg",
+    "bags/pill_side/MVI_2779/f000250_bag00.jpg",
+    "bags/pill_side/MVI_2779/f000260_bag00.jpg",
+    "bags/pill_side/MVI_2781/f000050_bag00.jpg",
+    "bags/pill_side/MVI_2781/f000060_bag00.jpg",
+    "bags/pill_side/MVI_2781/f000290_bag00.jpg",
+    "bags/pill_side/MVI_2783/f000040_bag00.jpg",
+    "bags/pill_side/MVI_2783/f000210_bag00.jpg",
+    "bags/pill_side/MVI_2783/f000280_bag00.jpg",
+    "bags/pill_side/MVI_2785/f000110_bag00.jpg",
+    "bags/pill_side/MVI_2785/f000180_bag00.jpg",
+    "bags/pill_side/MVI_2785/f000250_bag00.jpg",
+    "bags/pill_side/MVI_2787/f000070_bag00.jpg",
+    "bags/pill_side/MVI_2787/f000080_bag00.jpg",
+    "bags/pill_side/MVI_2787/f000280_bag00.jpg",
+    "bags/pill_side/MVI_2789/f000060_bag00.jpg",
+    "bags/pill_side/MVI_2789/f000160_bag00.jpg",
+    "bags/pill_side/MVI_2789/f000250_bag00.jpg",
+    "bags/pill_side/MVI_2789/f000290_bag00.jpg",
+    "bags/pill_side/MVI_2791/f000070_bag00.jpg",
+    "bags/pill_side/MVI_2791/f000090_bag00.jpg",
+    "bags/pill_side/MVI_2791/f000230_bag00.jpg",
+    "bags/pill_side/MVI_2793/f000150_bag00.jpg",
+    "bags/pill_side/MVI_2793/f000210_bag00.jpg",
+    "bags/pill_side/MVI_2793/f000240_bag00.jpg",
+    "bags/pill_side/MVI_2793/f000270_bag00.jpg",
+    "bags/pill_side/MVI_2795/f000000_bag00.jpg",
+    "bags/pill_side/MVI_2795/f000160_bag00.jpg",
+    "bags/pill_side/MVI_2795/f000220_bag00.jpg",
+    "bags/pill_side/MVI_2795/f000260_bag00.jpg",
+    "bags/pill_side/MVI_2795/f000270_bag00.jpg",
+    "bags/pill_side/MVI_2797/f000180_bag00.jpg",
+    "bags/pill_side/MVI_2797/f000220_bag00.jpg",
+    "bags/pill_side/MVI_2797/f000290_bag00.jpg",
+    "bags/pill_side/MVI_2799/f000020_bag00.jpg",
+    "bags/pill_side/MVI_2799/f000120_bag00.jpg",
+    "bags/pill_side/MVI_2799/f000200_bag00.jpg",
+    "bags/pill_side/MVI_2801/f000050_bag00.jpg",
+    "bags/pill_side/MVI_2801/f000180_bag00.jpg",
+    "bags/pill_side/MVI_2801/f000210_bag00.jpg",
+    "bags/pill_side/MVI_2801/f000220_bag00.jpg",
+    "bags/pill_side/MVI_2801/f000230_bag00.jpg",
+    "bags/pill_side/MVI_2803/f000000_bag00.jpg",
+    "bags/pill_side/MVI_2803/f000140_bag00.jpg",
+    "bags/pill_side/MVI_2803/f000160_bag00.jpg",
+    "bags/pill_side/MVI_2803/f000240_bag00.jpg",
+    "bags/pill_side/MVI_2805/f000100_bag00.jpg",
+    "bags/pill_side/MVI_2805/f000170_bag00.jpg",
+    "bags/pill_side/MVI_2805/f000270_bag00.jpg",
+    "bags/pill_side/MVI_2807/f000040_bag00.jpg",
+    "bags/pill_side/MVI_2807/f000110_bag00.jpg",
+    "bags/pill_side/MVI_2807/f000290_bag00.jpg",
+    "bags/pill_side/MVI_2809/f000060_bag00.jpg",
+    "bags/pill_side/MVI_2809/f000160_bag00.jpg",
+    "bags/pill_side/MVI_2811/f000040_bag00.jpg",
+    "bags/pill_side/MVI_2811/f000090_bag00.jpg",
+    "bags/pill_side/MVI_2811/f000190_bag00.jpg",
+    "bags/pill_side/MVI_2811/f000260_bag00.jpg",
+    "bags/pill_side/MVI_2813/f000070_bag00.jpg",
+    "bags/pill_side/MVI_2813/f000150_bag00.jpg",
+    "bags/pill_side/MVI_2813/f000280_bag00.jpg",
+    "bags/pill_side/MVI_2815/f000010_bag00.jpg",
+    "bags/pill_side/MVI_2815/f000110_bag00.jpg",
+    "bags/pill_side/MVI_2815/f000160_bag00.jpg",
+    "bags/pill_side/MVI_2815/f000240_bag00.jpg",
+    "bags/pill_side/MVI_2817/f000030_bag00.jpg",
+    "bags/pill_side/MVI_2817/f000100_bag00.jpg",
+    "bags/pill_side/MVI_2817/f000130_bag00.jpg",
+    "bags/pill_side/MVI_2817/f000140_bag00.jpg",
+    "bags/pill_side/MVI_2817/f000150_bag00.jpg",
+    "bags/pill_side/MVI_2817/f000160_bag00.jpg",
+    "bags/pill_side/MVI_2817/f000220_bag00.jpg",
+    "bags/pill_side/MVI_2820/f000010_bag00.jpg",
+    "bags/pill_side/MVI_2820/f000070_bag00.jpg",
+    "bags/pill_side/MVI_2822/f000070_bag00.jpg",
+    "bags/pill_side/MVI_2822/f000160_bag00.jpg",
+    "bags/pill_side/MVI_2822/f000180_bag00.jpg",
+    "bags/pill_side/MVI_2822/f000220_bag00.jpg",
+    "bags/pill_side/MVI_2822/f000230_bag00.jpg",
+    "bags/pill_side/MVI_2822/f000260_bag00.jpg",
+    "bags/pill_side/MVI_2822/f000270_bag00.jpg",
+    "bags/pill_side/MVI_2822/f000280_bag00.jpg",
+    "bags/pill_side/MVI_2824/f000060_bag00.jpg",
+    "bags/pill_side/MVI_2824/f000140_bag00.jpg",
+    "bags/pill_side/MVI_2824/f000240_bag00.jpg",
+    "bags/pill_side/MVI_2826/f000020_bag00.jpg",
+    "bags/pill_side/MVI_2826/f000080_bag00.jpg",
+    "bags/pill_side/MVI_2826/f000180_bag00.jpg",
+    "bags/pill_side/MVI_2826/f000220_bag00.jpg",
+    "bags/pill_side/MVI_2828/f000050_bag00.jpg",
+    "bags/pill_side/MVI_2828/f000080_bag00.jpg",
+    "bags/pill_side/MVI_2828/f000200_bag00.jpg",
+    "bags/pill_side/MVI_2830/f000080_bag00.jpg",
+    "bags/pill_side/MVI_2830/f000160_bag00.jpg",
+    "bags/pill_side/MVI_2830/f000210_bag00.jpg",
+    "bags/pill_side/MVI_2830/f000220_bag00.jpg",
+    "bags/pill_side/MVI_2830/f000230_bag00.jpg",
+    "bags/pill_side/MVI_2832/f000090_bag00.jpg",
+    "bags/pill_side/MVI_2832/f000110_bag00.jpg",
+    "bags/pill_side/MVI_2832/f000240_bag00.jpg",
+    "bags/pill_side/MVI_2834/f000050_bag00.jpg",
+    "bags/pill_side/MVI_2834/f000130_bag00.jpg",
+    "bags/pill_side/MVI_2834/f000150_bag00.jpg",
+    "bags/pill_side/MVI_2834/f000220_bag00.jpg",
+    "bags/pill_side/MVI_2836/f000100_bag00.jpg",
+    "bags/pill_side/MVI_2838/f000030_bag00.jpg",
+    "bags/pill_side/MVI_2838/f000050_bag00.jpg",
+    "bags/pill_side/MVI_2838/f000270_bag00.jpg",
+    "bags/pill_side/MVI_2840/f000030_bag00.jpg",
+    "bags/pill_side/MVI_2840/f000050_bag00.jpg",
+    "bags/pill_side/MVI_2840/f000200_bag00.jpg",
+    "bags/pill_side/MVI_2840/f000240_bag00.jpg",
+    "bags/pill_side/MVI_2842/f000000_bag00.jpg",
+    "bags/pill_side/MVI_2842/f000140_bag00.jpg",
+    "bags/pill_side/MVI_2842/f000160_bag00.jpg",
+    "bags/pill_side/MVI_2842/f000170_bag00.jpg",
+    "bags/pill_side/MVI_2842/f000190_bag00.jpg",
+    "bags/pill_side/MVI_2842/f000240_bag00.jpg",
+    "bags/pill_side/MVI_2842/f000270_bag00.jpg",
+    "bags/pill_side/MVI_2844/f000000_bag00.jpg",
+    "bags/pill_side/MVI_2844/f000020_bag00.jpg",
+    "bags/pill_side/MVI_2844/f000030_bag00.jpg",
+    "bags/pill_side/MVI_2844/f000040_bag00.jpg",
+    "bags/pill_side/MVI_2844/f000050_bag00.jpg",
+    "bags/pill_side/MVI_2844/f000060_bag00.jpg",
+    "bags/pill_side/MVI_2844/f000240_bag00.jpg",
+    "bags/pill_side/MVI_2844/f000260_bag00.jpg",
+    "bags/pill_side/MVI_2844/f000270_bag00.jpg",
+    "bags/pill_side/MVI_2844/f000280_bag00.jpg",
+    "bags/pill_side/MVI_2844/f000290_bag00.jpg"
+  ],
+  "cobertura_por_foto": {
+    "bags/pill_side/MVI_2732/f000060_bag00.jpg": [
+      "session_0000::3",
+      "session_0000::4"
+    ],
+    "bags/pill_side/MVI_2732/f000100_bag00.jpg": [
+      "session_0000::2",
+      "session_0000::3"
+    ],
+    "bags/pill_side/MVI_2732/f000180_bag00.jpg": [
+      "session_0000::2"
+    ],
+    "bags/pill_side/MVI_2732/f000250_bag00.jpg": [
+      "session_0000::1"
+    ],
+    "bags/pill_side/MVI_2732/f000270_bag00.jpg": [
+      "session_0000::0"
+    ],
+    "bags/pill_side/MVI_2734/f000020_bag00.jpg": [
+      "session_0001::5"
+    ],
+    "bags/pill_side/MVI_2734/f000070_bag00.jpg": [
+      "session_0001::6"
+    ],
+    "bags/pill_side/MVI_2734/f000140_bag00.jpg": [
+      "session_0001::3",
+      "session_0001::4"
+    ],
+    "bags/pill_side/MVI_2734/f000180_bag00.jpg": [
+      "session_0001::3"
+    ],
+    "bags/pill_side/MVI_2734/f000210_bag00.jpg": [
+      "session_0001::2"
+    ],
+    "bags/pill_side/MVI_2734/f000240_bag00.jpg": [
+      "session_0001::7"
+    ],
+    "bags/pill_side/MVI_2734/f000260_bag00.jpg": [
+      "session_0001::0",
+      "session_0001::1"
+    ],
+    "bags/pill_side/MVI_2734/f000270_bag00.jpg": [
+      "session_0001::8"
+    ],
+    "bags/pill_side/MVI_2736/f000010_bag00.jpg": [
+      "session_0002::5"
+    ],
+    "bags/pill_side/MVI_2736/f000100_bag00.jpg": [
+      "session_0002::2"
+    ],
+    "bags/pill_side/MVI_2736/f000120_bag00.jpg": [
+      "session_0002::3"
+    ],
+    "bags/pill_side/MVI_2736/f000140_bag00.jpg": [
+      "session_0002::6"
+    ],
+    "bags/pill_side/MVI_2736/f000150_bag00.jpg": [
+      "session_0002::7"
+    ],
+    "bags/pill_side/MVI_2736/f000200_bag00.jpg": [
+      "session_0002::0"
+    ],
+    "bags/pill_side/MVI_2736/f000210_bag00.jpg": [
+      "session_0002::8"
+    ],
+    "bags/pill_side/MVI_2736/f000220_bag00.jpg": [
+      "session_0002::9"
+    ],
+    "bags/pill_side/MVI_2736/f000240_bag00.jpg": [
+      "session_0002::1"
+    ],
+    "bags/pill_side/MVI_2736/f000250_bag00.jpg": [
+      "session_0002::10"
+    ],
+    "bags/pill_side/MVI_2736/f000280_bag00.jpg": [
+      "session_0002::4"
+    ],
+    "bags/pill_side/MVI_2738/f000070_bag00.jpg": [
+      "session_0003::2"
+    ],
+    "bags/pill_side/MVI_2738/f000150_bag00.jpg": [
+      "session_0003::3"
+    ],
+    "bags/pill_side/MVI_2738/f000160_bag00.jpg": [
+      "session_0003::5"
+    ],
+    "bags/pill_side/MVI_2738/f000180_bag00.jpg": [
+      "session_0003::4"
+    ],
+    "bags/pill_side/MVI_2738/f000200_bag00.jpg": [
+      "session_0003::1"
+    ],
+    "bags/pill_side/MVI_2738/f000210_bag00.jpg": [
+      "session_0003::6"
+    ],
+    "bags/pill_side/MVI_2738/f000260_bag00.jpg": [
+      "session_0003::0"
+    ],
+    "bags/pill_side/MVI_2741/f000140_bag00.jpg": [
+      "session_0004::1"
+    ],
+    "bags/pill_side/MVI_2741/f000170_bag00.jpg": [
+      "session_0004::2"
+    ],
+    "bags/pill_side/MVI_2741/f000290_bag00.jpg": [
+      "session_0004::0"
+    ],
+    "bags/pill_side/MVI_2743/f000110_bag00.jpg": [
+      "session_0005::1"
+    ],
+    "bags/pill_side/MVI_2743/f000240_bag00.jpg": [
+      "session_0005::2"
+    ],
+    "bags/pill_side/MVI_2745/f000100_bag00.jpg": [
+      "session_0006::2"
+    ],
+    "bags/pill_side/MVI_2745/f000180_bag00.jpg": [
+      "session_0006::1"
+    ],
+    "bags/pill_side/MVI_2745/f000230_bag00.jpg": [
+      "session_0006::0",
+      "session_0006::1"
+    ],
+    "bags/pill_side/MVI_2747/f000060_bag00.jpg": [
+      "session_0007::0",
+      "session_0007::1"
+    ],
+    "bags/pill_side/MVI_2747/f000120_bag00.jpg": [
+      "session_0007::0"
+    ],
+    "bags/pill_side/MVI_2747/f000260_bag00.jpg": [
+      "session_0007::0",
+      "session_0007::2"
+    ],
+    "bags/pill_side/MVI_2749/f000120_bag00.jpg": [
+      "session_0008::0",
+      "session_0008::1"
+    ],
+    "bags/pill_side/MVI_2749/f000140_bag00.jpg": [
+      "session_0008::0"
+    ],
+    "bags/pill_side/MVI_2749/f000260_bag00.jpg": [
+      "session_0008::2"
+    ],
+    "bags/pill_side/MVI_2751/f000130_bag00.jpg": [
+      "session_0009::1"
+    ],
+    "bags/pill_side/MVI_2751/f000190_bag00.jpg": [
+      "session_0009::3"
+    ],
+    "bags/pill_side/MVI_2751/f000230_bag00.jpg": [
+      "session_0009::4"
+    ],
+    "bags/pill_side/MVI_2751/f000280_bag00.jpg": [
+      "session_0009::0"
+    ],
+    "bags/pill_side/MVI_2753/f000120_bag00.jpg": [
+      "session_0010::2"
+    ],
+    "bags/pill_side/MVI_2753/f000160_bag00.jpg": [
+      "session_0010::0"
+    ],
+    "bags/pill_side/MVI_2753/f000250_bag00.jpg": [
+      "session_0010::3"
+    ],
+    "bags/pill_side/MVI_2753/f000260_bag00.jpg": [
+      "session_0010::4"
+    ],
+    "bags/pill_side/MVI_2753/f000270_bag00.jpg": [
+      "session_0010::5"
+    ],
+    "bags/pill_side/MVI_2753/f000280_bag00.jpg": [
+      "session_0010::6"
+    ],
+    "bags/pill_side/MVI_2753/f000290_bag00.jpg": [
+      "session_0010::1"
+    ],
+    "bags/pill_side/MVI_2757/f000030_bag00.jpg": [
+      "session_0011::1"
+    ],
+    "bags/pill_side/MVI_2757/f000130_bag00.jpg": [
+      "session_0011::2"
+    ],
+    "bags/pill_side/MVI_2757/f000230_bag00.jpg": [
+      "session_0011::0"
+    ],
+    "bags/pill_side/MVI_2762/f000060_bag00.jpg": [
+      "session_0012::2"
+    ],
+    "bags/pill_side/MVI_2762/f000070_bag00.jpg": [
+      "session_0012::3"
+    ],
+    "bags/pill_side/MVI_2762/f000080_bag00.jpg": [
+      "session_0012::4"
+    ],
+    "bags/pill_side/MVI_2762/f000090_bag00.jpg": [
+      "session_0012::5"
+    ],
+    "bags/pill_side/MVI_2762/f000160_bag00.jpg": [
+      "session_0012::6"
+    ],
+    "bags/pill_side/MVI_2762/f000170_bag00.jpg": [
+      "session_0012::8"
+    ],
+    "bags/pill_side/MVI_2762/f000200_bag00.jpg": [
+      "session_0012::0"
+    ],
+    "bags/pill_side/MVI_2762/f000240_bag00.jpg": [
+      "session_0012::1"
+    ],
+    "bags/pill_side/MVI_2764/f000150_bag00.jpg": [
+      "session_0013::0"
+    ],
+    "bags/pill_side/MVI_2764/f000200_bag00.jpg": [
+      "session_0013::3"
+    ],
+    "bags/pill_side/MVI_2764/f000210_bag00.jpg": [
+      "session_0013::1"
+    ],
+    "bags/pill_side/MVI_2764/f000250_bag00.jpg": [
+      "session_0013::2"
+    ],
+    "bags/pill_side/MVI_2767/f000040_bag00.jpg": [
+      "session_0014::7"
+    ],
+    "bags/pill_side/MVI_2767/f000150_bag00.jpg": [
+      "session_0014::2"
+    ],
+    "bags/pill_side/MVI_2767/f000190_bag00.jpg": [
+      "session_0014::1",
+      "session_0014::2"
+    ],
+    "bags/pill_side/MVI_2767/f000260_bag00.jpg": [
+      "session_0014::0"
+    ],
+    "bags/pill_side/MVI_2769/f000120_bag00.jpg": [
+      "session_0015::0",
+      "session_0015::1"
+    ],
+    "bags/pill_side/MVI_2769/f000260_bag00.jpg": [
+      "session_0015::2"
+    ],
+    "bags/pill_side/MVI_2769/f000270_bag00.jpg": [
+      "session_0015::0"
+    ],
+    "bags/pill_side/MVI_2771/f000000_bag00.jpg": [
+      "session_0016::2"
+    ],
+    "bags/pill_side/MVI_2771/f000070_bag00.jpg": [
+      "session_0016::1"
+    ],
+    "bags/pill_side/MVI_2771/f000130_bag00.jpg": [
+      "session_0016::0"
+    ],
+    "bags/pill_side/MVI_2773/f000160_bag00.jpg": [
+      "session_0017::0",
+      "session_0017::1",
+      "session_0017::2"
+    ],
+    "bags/pill_side/MVI_2773/f000250_bag00.jpg": [
+      "session_0017::1",
+      "session_0017::2"
+    ],
+    "bags/pill_side/MVI_2773/f000260_bag00.jpg": [
+      "session_0017::0",
+      "session_0017::2"
+    ],
+    "bags/pill_side/MVI_2775/f000110_bag00.jpg": [
+      "session_0018::0"
+    ],
+    "bags/pill_side/MVI_2775/f000290_bag00.jpg": [
+      "session_0018::1"
+    ],
+    "bags/pill_side/MVI_2779/f000060_bag00.jpg": [
+      "session_0019::1"
+    ],
+    "bags/pill_side/MVI_2779/f000250_bag00.jpg": [
+      "session_0019::2"
+    ],
+    "bags/pill_side/MVI_2779/f000260_bag00.jpg": [
+      "session_0019::0"
+    ],
+    "bags/pill_side/MVI_2781/f000050_bag00.jpg": [
+      "session_0020::0"
+    ],
+    "bags/pill_side/MVI_2781/f000060_bag00.jpg": [
+      "session_0020::0",
+      "session_0020::2"
+    ],
+    "bags/pill_side/MVI_2781/f000290_bag00.jpg": [
+      "session_0020::1",
+      "session_0020::2"
+    ],
+    "bags/pill_side/MVI_2783/f000040_bag00.jpg": [
+      "session_0021::2"
+    ],
+    "bags/pill_side/MVI_2783/f000210_bag00.jpg": [
+      "session_0021::0"
+    ],
+    "bags/pill_side/MVI_2783/f000280_bag00.jpg": [
+      "session_0021::0",
+      "session_0021::1"
+    ],
+    "bags/pill_side/MVI_2785/f000110_bag00.jpg": [
+      "session_0022::0",
+      "session_0022::1"
+    ],
+    "bags/pill_side/MVI_2785/f000180_bag00.jpg": [
+      "session_0022::0",
+      "session_0022::1"
+    ],
+    "bags/pill_side/MVI_2785/f000250_bag00.jpg": [
+      "session_0022::0",
+      "session_0022::2"
+    ],
+    "bags/pill_side/MVI_2787/f000070_bag00.jpg": [
+      "session_0023::1",
+      "session_0023::2"
+    ],
+    "bags/pill_side/MVI_2787/f000080_bag00.jpg": [
+      "session_0023::1",
+      "session_0023::2"
+    ],
+    "bags/pill_side/MVI_2787/f000280_bag00.jpg": [
+      "session_0023::0"
+    ],
+    "bags/pill_side/MVI_2789/f000060_bag00.jpg": [
+      "session_0024::1",
+      "session_0024::2"
+    ],
+    "bags/pill_side/MVI_2789/f000160_bag00.jpg": [
+      "session_0024::2",
+      "session_0024::3"
+    ],
+    "bags/pill_side/MVI_2789/f000250_bag00.jpg": [
+      "session_0024::4"
+    ],
+    "bags/pill_side/MVI_2789/f000290_bag00.jpg": [
+      "session_0024::0",
+      "session_0024::2"
+    ],
+    "bags/pill_side/MVI_2791/f000070_bag00.jpg": [
+      "session_0025::1",
+      "session_0025::2"
+    ],
+    "bags/pill_side/MVI_2791/f000090_bag00.jpg": [
+      "session_0025::1",
+      "session_0025::2"
+    ],
+    "bags/pill_side/MVI_2791/f000230_bag00.jpg": [
+      "session_0025::0",
+      "session_0025::1"
+    ],
+    "bags/pill_side/MVI_2793/f000150_bag00.jpg": [
+      "session_0026::1"
+    ],
+    "bags/pill_side/MVI_2793/f000210_bag00.jpg": [
+      "session_0026::2"
+    ],
+    "bags/pill_side/MVI_2793/f000240_bag00.jpg": [
+      "session_0026::3"
+    ],
+    "bags/pill_side/MVI_2793/f000270_bag00.jpg": [
+      "session_0026::0"
+    ],
+    "bags/pill_side/MVI_2795/f000000_bag00.jpg": [
+      "session_0027::1"
+    ],
+    "bags/pill_side/MVI_2795/f000160_bag00.jpg": [
+      "session_0027::2"
+    ],
+    "bags/pill_side/MVI_2795/f000220_bag00.jpg": [
+      "session_0027::3"
+    ],
+    "bags/pill_side/MVI_2795/f000260_bag00.jpg": [
+      "session_0027::4"
+    ],
+    "bags/pill_side/MVI_2795/f000270_bag00.jpg": [
+      "session_0027::0"
+    ],
+    "bags/pill_side/MVI_2797/f000180_bag00.jpg": [
+      "session_0028::0",
+      "session_0028::1",
+      "session_0028::2"
+    ],
+    "bags/pill_side/MVI_2797/f000220_bag00.jpg": [
+      "session_0028::0",
+      "session_0028::1"
+    ],
+    "bags/pill_side/MVI_2797/f000290_bag00.jpg": [
+      "session_0028::0",
+      "session_0028::1"
+    ],
+    "bags/pill_side/MVI_2799/f000020_bag00.jpg": [
+      "session_0029::1"
+    ],
+    "bags/pill_side/MVI_2799/f000120_bag00.jpg": [
+      "session_0029::2"
+    ],
+    "bags/pill_side/MVI_2799/f000200_bag00.jpg": [
+      "session_0029::0"
+    ],
+    "bags/pill_side/MVI_2801/f000050_bag00.jpg": [
+      "session_0030::0"
+    ],
+    "bags/pill_side/MVI_2801/f000180_bag00.jpg": [
+      "session_0030::1",
+      "session_0030::2"
+    ],
+    "bags/pill_side/MVI_2801/f000210_bag00.jpg": [
+      "session_0030::3"
+    ],
+    "bags/pill_side/MVI_2801/f000220_bag00.jpg": [
+      "session_0030::4"
+    ],
+    "bags/pill_side/MVI_2801/f000230_bag00.jpg": [
+      "session_0030::5"
+    ],
+    "bags/pill_side/MVI_2803/f000000_bag00.jpg": [
+      "session_0031::3"
+    ],
+    "bags/pill_side/MVI_2803/f000140_bag00.jpg": [
+      "session_0031::1",
+      "session_0031::2"
+    ],
+    "bags/pill_side/MVI_2803/f000160_bag00.jpg": [
+      "session_0031::1"
+    ],
+    "bags/pill_side/MVI_2803/f000240_bag00.jpg": [
+      "session_0031::0",
+      "session_0031::1"
+    ],
+    "bags/pill_side/MVI_2805/f000100_bag00.jpg": [
+      "session_0032::0",
+      "session_0032::1"
+    ],
+    "bags/pill_side/MVI_2805/f000170_bag00.jpg": [
+      "session_0032::0",
+      "session_0032::1"
+    ],
+    "bags/pill_side/MVI_2805/f000270_bag00.jpg": [
+      "session_0032::0",
+      "session_0032::2"
+    ],
+    "bags/pill_side/MVI_2807/f000040_bag00.jpg": [
+      "session_0033::0",
+      "session_0033::1"
+    ],
+    "bags/pill_side/MVI_2807/f000110_bag00.jpg": [
+      "session_0033::0"
+    ],
+    "bags/pill_side/MVI_2807/f000290_bag00.jpg": [
+      "session_0033::0",
+      "session_0033::2"
+    ],
+    "bags/pill_side/MVI_2809/f000060_bag00.jpg": [
+      "session_0034::1"
+    ],
+    "bags/pill_side/MVI_2809/f000160_bag00.jpg": [
+      "session_0034::0"
+    ],
+    "bags/pill_side/MVI_2811/f000040_bag00.jpg": [
+      "session_0035::2",
+      "session_0035::3"
+    ],
+    "bags/pill_side/MVI_2811/f000090_bag00.jpg": [
+      "session_0035::2",
+      "session_0035::3"
+    ],
+    "bags/pill_side/MVI_2811/f000190_bag00.jpg": [
+      "session_0035::1",
+      "session_0035::2"
+    ],
+    "bags/pill_side/MVI_2811/f000260_bag00.jpg": [
+      "session_0035::0",
+      "session_0035::1",
+      "session_0035::2"
+    ],
+    "bags/pill_side/MVI_2813/f000070_bag00.jpg": [
+      "session_0036::0",
+      "session_0036::2"
+    ],
+    "bags/pill_side/MVI_2813/f000150_bag00.jpg": [
+      "session_0036::0"
+    ],
+    "bags/pill_side/MVI_2813/f000280_bag00.jpg": [
+      "session_0036::1"
+    ],
+    "bags/pill_side/MVI_2815/f000010_bag00.jpg": [
+      "session_0037::0"
+    ],
+    "bags/pill_side/MVI_2815/f000110_bag00.jpg": [
+      "session_0037::1"
+    ],
+    "bags/pill_side/MVI_2815/f000160_bag00.jpg": [
+      "session_0037::2"
+    ],
+    "bags/pill_side/MVI_2815/f000240_bag00.jpg": [
+      "session_0037::3"
+    ],
+    "bags/pill_side/MVI_2817/f000030_bag00.jpg": [
+      "session_0038::0"
+    ],
+    "bags/pill_side/MVI_2817/f000100_bag00.jpg": [
+      "session_0038::2"
+    ],
+    "bags/pill_side/MVI_2817/f000130_bag00.jpg": [
+      "session_0038::3"
+    ],
+    "bags/pill_side/MVI_2817/f000140_bag00.jpg": [
+      "session_0038::4"
+    ],
+    "bags/pill_side/MVI_2817/f000150_bag00.jpg": [
+      "session_0038::5"
+    ],
+    "bags/pill_side/MVI_2817/f000160_bag00.jpg": [
+      "session_0038::6"
+    ],
+    "bags/pill_side/MVI_2817/f000220_bag00.jpg": [
+      "session_0038::1"
+    ],
+    "bags/pill_side/MVI_2820/f000010_bag00.jpg": [
+      "session_0039::0",
+      "session_0039::1"
+    ],
+    "bags/pill_side/MVI_2820/f000070_bag00.jpg": [
+      "session_0039::1"
+    ],
+    "bags/pill_side/MVI_2822/f000070_bag00.jpg": [
+      "session_0040::2"
+    ],
+    "bags/pill_side/MVI_2822/f000160_bag00.jpg": [
+      "session_0040::1"
+    ],
+    "bags/pill_side/MVI_2822/f000180_bag00.jpg": [
+      "session_0040::3"
+    ],
+    "bags/pill_side/MVI_2822/f000220_bag00.jpg": [
+      "session_0040::4"
+    ],
+    "bags/pill_side/MVI_2822/f000230_bag00.jpg": [
+      "session_0040::5"
+    ],
+    "bags/pill_side/MVI_2822/f000260_bag00.jpg": [
+      "session_0040::6"
+    ],
+    "bags/pill_side/MVI_2822/f000270_bag00.jpg": [
+      "session_0040::0"
+    ],
+    "bags/pill_side/MVI_2822/f000280_bag00.jpg": [
+      "session_0040::7"
+    ],
+    "bags/pill_side/MVI_2824/f000060_bag00.jpg": [
+      "session_0041::1"
+    ],
+    "bags/pill_side/MVI_2824/f000140_bag00.jpg": [
+      "session_0041::2"
+    ],
+    "bags/pill_side/MVI_2824/f000240_bag00.jpg": [
+      "session_0041::0"
+    ],
+    "bags/pill_side/MVI_2826/f000020_bag00.jpg": [
+      "session_0042::1"
+    ],
+    "bags/pill_side/MVI_2826/f000080_bag00.jpg": [
+      "session_0042::1",
+      "session_0042::2"
+    ],
+    "bags/pill_side/MVI_2826/f000180_bag00.jpg": [
+      "session_0042::3"
+    ],
+    "bags/pill_side/MVI_2826/f000220_bag00.jpg": [
+      "session_0042::0"
+    ],
+    "bags/pill_side/MVI_2828/f000050_bag00.jpg": [
+      "session_0043::0",
+      "session_0043::2"
+    ],
+    "bags/pill_side/MVI_2828/f000080_bag00.jpg": [
+      "session_0043::0",
+      "session_0043::2"
+    ],
+    "bags/pill_side/MVI_2828/f000200_bag00.jpg": [
+      "session_0043::1"
+    ],
+    "bags/pill_side/MVI_2830/f000080_bag00.jpg": [
+      "session_0044::1"
+    ],
+    "bags/pill_side/MVI_2830/f000160_bag00.jpg": [
+      "session_0044::0",
+      "session_0044::1"
+    ],
+    "bags/pill_side/MVI_2830/f000210_bag00.jpg": [
+      "session_0044::2"
+    ],
+    "bags/pill_side/MVI_2830/f000220_bag00.jpg": [
+      "session_0044::3"
+    ],
+    "bags/pill_side/MVI_2830/f000230_bag00.jpg": [
+      "session_0044::4"
+    ],
+    "bags/pill_side/MVI_2832/f000090_bag00.jpg": [
+      "session_0045::1",
+      "session_0045::2"
+    ],
+    "bags/pill_side/MVI_2832/f000110_bag00.jpg": [
+      "session_0045::1"
+    ],
+    "bags/pill_side/MVI_2832/f000240_bag00.jpg": [
+      "session_0045::0",
+      "session_0045::1"
+    ],
+    "bags/pill_side/MVI_2834/f000050_bag00.jpg": [
+      "session_0046::3"
+    ],
+    "bags/pill_side/MVI_2834/f000130_bag00.jpg": [
+      "session_0046::1"
+    ],
+    "bags/pill_side/MVI_2834/f000150_bag00.jpg": [
+      "session_0046::1",
+      "session_0046::2"
+    ],
+    "bags/pill_side/MVI_2834/f000220_bag00.jpg": [
+      "session_0046::0",
+      "session_0046::1"
+    ],
+    "bags/pill_side/MVI_2836/f000100_bag00.jpg": [
+      "session_0047::0"
+    ],
+    "bags/pill_side/MVI_2838/f000030_bag00.jpg": [
+      "session_0048::0",
+      "session_0048::2"
+    ],
+    "bags/pill_side/MVI_2838/f000050_bag00.jpg": [
+      "session_0048::0",
+      "session_0048::2"
+    ],
+    "bags/pill_side/MVI_2838/f000270_bag00.jpg": [
+      "session_0048::1",
+      "session_0048::2"
+    ],
+    "bags/pill_side/MVI_2840/f000030_bag00.jpg": [
+      "session_0049::2"
+    ],
+    "bags/pill_side/MVI_2840/f000050_bag00.jpg": [
+      "session_0049::1"
+    ],
+    "bags/pill_side/MVI_2840/f000200_bag00.jpg": [
+      "session_0049::0",
+      "session_0049::1"
+    ],
+    "bags/pill_side/MVI_2840/f000240_bag00.jpg": [
+      "session_0049::3"
+    ],
+    "bags/pill_side/MVI_2842/f000000_bag00.jpg": [
+      "session_0050::2"
+    ],
+    "bags/pill_side/MVI_2842/f000140_bag00.jpg": [
+      "session_0050::4"
+    ],
+    "bags/pill_side/MVI_2842/f000160_bag00.jpg": [
+      "session_0050::0",
+      "session_0050::1",
+      "session_0050::3"
+    ],
+    "bags/pill_side/MVI_2842/f000170_bag00.jpg": [
+      "session_0050::5"
+    ],
+    "bags/pill_side/MVI_2842/f000190_bag00.jpg": [
+      "session_0050::6"
+    ],
+    "bags/pill_side/MVI_2842/f000240_bag00.jpg": [
+      "session_0050::7"
+    ],
+    "bags/pill_side/MVI_2842/f000270_bag00.jpg": [
+      "session_0050::1",
+      "session_0050::3"
+    ],
+    "bags/pill_side/MVI_2844/f000000_bag00.jpg": [
+      "session_0051::1"
+    ],
+    "bags/pill_side/MVI_2844/f000020_bag00.jpg": [
+      "session_0051::2"
+    ],
+    "bags/pill_side/MVI_2844/f000030_bag00.jpg": [
+      "session_0051::3"
+    ],
+    "bags/pill_side/MVI_2844/f000040_bag00.jpg": [
+      "session_0051::4"
+    ],
+    "bags/pill_side/MVI_2844/f000050_bag00.jpg": [
+      "session_0051::6"
+    ],
+    "bags/pill_side/MVI_2844/f000060_bag00.jpg": [
+      "session_0051::5"
+    ],
+    "bags/pill_side/MVI_2844/f000240_bag00.jpg": [
+      "session_0051::7"
+    ],
+    "bags/pill_side/MVI_2844/f000260_bag00.jpg": [
+      "session_0051::0"
+    ],
+    "bags/pill_side/MVI_2844/f000270_bag00.jpg": [
+      "session_0051::8"
+    ],
+    "bags/pill_side/MVI_2844/f000280_bag00.jpg": [
+      "session_0051::9"
+    ],
+    "bags/pill_side/MVI_2844/f000290_bag00.jpg": [
+      "session_0051::10"
+    ]
+  }
+}

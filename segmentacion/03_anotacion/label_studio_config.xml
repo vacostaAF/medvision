@@ -1,0 +1,34 @@
+<!--
+Plantilla de etiquetado para el proyecto "MedVision - segmentación de pastillas".
+
+Cómo usarla: al crear el proyecto en Label Studio, en
+Settings -> Labeling Interface -> Code, pegar este XML entero (sustituye
+la plantilla por defecto).
+
+Dos tareas por foto:
+  1. Dibujar/corregir el contorno de cada pastilla (herramienta de polígono,
+     ya viene precargado con las propuestas automáticas del pipeline).
+  2. Si la foto contiene más de una bolsita (el texto de arriba lo indica),
+     click en cada polígono y elegir a qué bolsita pertenece en el panel
+     de la derecha. Si solo hay una bolsita, se puede ignorar este paso.
+-->
+<View>
+  <Style>.htx-text { white-space: pre-wrap; font-family: monospace; }</Style>
+  <Header value="Bolsita(s) que aparecen en esta foto:" />
+  <Text name="bolsitas_texto" value="$bolsitas_texto" />
+
+  <Image name="image" value="$image" zoom="true" zoomControl="true" rotateControl="false" />
+
+  <Header value="1. Contorno de cada pastilla" />
+  <PolygonLabels name="label" toName="image" strokeWidth="3" pointSize="small" opacity="0.35">
+    <Label value="pastilla" background="#4CAF50" />
+  </PolygonLabels>
+
+  <Header value="2. Si hay más de una bolsita en la foto, asigna cada pastilla (selecciona el polígono primero)" />
+  <Choices name="bolsita_asignada" toName="image" perRegion="true" value="$bolsitas_asociadas"
+           choice="single" required="false" />
+
+  <Header value="3. Notas (opcional) — ej. si has comprobado FÍSICAMENTE que la bolsa contiene menos pastillas de las que lista la etiqueta" />
+  <TextArea name="notas" toName="image" rows="3" editable="true" maxSubmissions="1"
+            placeholder="Ej: verificado a mano, la bolsa solo contiene 5 pastillas, la etiqueta lista 7 (faltan Fármaco X, Fármaco Y)." />
+</View>

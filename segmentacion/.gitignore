@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pt
+!segmentacion/04_entrenamiento/best.pt
+dataset_package/
+runs_medvision/
+*.jpg
+*.jpeg
+*.png
